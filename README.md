@@ -1,5 +1,3 @@
-# This repository has been archived. The code, app package, and Dataverse solution for this app can be found in the [microsoft/teams-powerapps-app-templates](https://github.com/microsoft/teams-powerapps-app-templates) open source repository.
-
 ---
 page_type: sample
 languages:
@@ -9,7 +7,9 @@ products:
 urlFragment: microsoft-teams-app-milestones
 ---
 
-# Milestones App Template
+# This repository has been archived. The code, app package, and Dataverse solution for this app can be found in the [microsoft/teams-powerapps-app-templates](https://github.com/microsoft/teams-powerapps-app-templates) open source repository.
+
+## Milestones App Template
 
 | [Documentation](https://docs.microsoft.com/en-us/powerapps/teams/milestones) | [Deployment guide]() | [Architecture]() |
 | ---- | ---- | ---- |
